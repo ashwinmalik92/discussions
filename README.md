@@ -1,5 +1,4 @@
 # SI 539 Discussions
-Winter 2020<br>
-Ashwin Malik (ashwinmk@umich.edu)
+Code repository for SI 539 discussion section experiments by ashwinmk.
 
-Sandbox repository for SI 539 discussion section experiments.
+Live: https://ashwinmalik92.github.io/discussions/
